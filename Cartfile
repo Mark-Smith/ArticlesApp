@@ -1,0 +1,3 @@
+github "zendesk/suas-ios" ~> 1.0
+github "zendesk/suas-ios-monitor-middleware" ~> 1.0
+github "Alamofire/Alamofire" ~> 4.5
